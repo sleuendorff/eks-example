@@ -1,1 +1,13 @@
-{}
+{
+    "cv_agma_poc": {
+        "projectName": "cv_agma_poc",
+        "description": "cv_agma_poc",
+        "type": "community",
+        "author": "sleuendorff",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/sleuendorff/eks-example",
+        "githubUri": "https://github.com/sleuendorff/eks-example",
+        "license": "MIT",
+        "lastUpdated": "1686115867627"
+    }
+}
